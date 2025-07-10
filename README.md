@@ -16,13 +16,13 @@ This project delivers a full-stack workflow for extracting actionable insights f
 - **Ensured reproducibility**  
   Managed code versioning with Git and organized modules into clear notebooks (`siamese.ipynb`, `U-Net.ipynb`, `llmintegration.ipynb`) and helper scripts under the `/src` directory to support easy collaboration and reproducibility.
 
-## 📂 Dataset
+## Dataset
 
 The code assumes access to a satellite imagery dataset. Please provide the dataset link below:
 
 - **Dataset link:** *[Insert dataset URL here]*
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
 
@@ -32,7 +32,7 @@ The code assumes access to a satellite imagery dataset. Please provide the datas
    ```
 2. **Run the notebooks**
 
-   Open and follow the Jupyter notebooks in this order:
+   Open and follow the Jupyter notebooks:
   - siamese.ipynb – Siamese model for change detection
   - U-Net.ipynb – U-Net segmentation baseline
   - llmintegration.ipynb – Vision-language summary generation
