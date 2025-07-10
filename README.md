@@ -33,6 +33,6 @@ The code assumes access to a satellite imagery dataset. Please provide the datas
 2. **Run the notebooks**
 
    Open and follow the Jupyter notebooks in this order:
-- siamese.ipynb – Siamese model for change detection
-- U-Net.ipynb – U-Net segmentation baseline
-- llmintegration.ipynb – Vision-language summary generation
+  - siamese.ipynb – Siamese model for change detection
+  - U-Net.ipynb – U-Net segmentation baseline
+  - llmintegration.ipynb – Vision-language summary generation
